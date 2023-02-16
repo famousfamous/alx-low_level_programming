@@ -1,1 +1,1 @@
-This is the readme file for the base directory
+This is part where I begin to code in C language
