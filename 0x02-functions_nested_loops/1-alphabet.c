@@ -2,7 +2,7 @@
 
 /**
  * main - prints the putchar
- * my very first loop statement.
+ * print_alphabet - to print each alphabet.
  */
 
 void print_alphabet(void)
